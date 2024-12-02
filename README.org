@@ -1,0 +1,6 @@
+* Transparent Serial Plotter
+
+Plots graph using serial comms data using gtk framework with transparent background.
+Contains various filtering methods.
+
+
